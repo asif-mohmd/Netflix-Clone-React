@@ -7,8 +7,6 @@
     padding-top: 140px;
     height: 190px;
     padding-left: 15px;
-
-
 }
 
 .title{
@@ -30,6 +28,7 @@
     cursor: pointer;
     margin-right: 1rem;
 }
+
 .button:hover{
     color: black;
     background-color: #e6e6e6;
