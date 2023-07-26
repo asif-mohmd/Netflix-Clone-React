@@ -1,4 +1,4 @@
-.navbar{
+.navbar {
     position: fixed;
     top: 0;
     width: 100%;
@@ -9,13 +9,13 @@
     background-color: #111;
 }
 
-.logo{
-position: fixed;
-left: 20px;
-width: 80px;
+.logo {
+    position: fixed;
+    left: 20px;
+    width: 80px;
 }
 
-.avatar{
+.avatar {
     position: fixed;
     right: 20px;
     width: 30px;
